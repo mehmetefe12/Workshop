@@ -1,0 +1,28 @@
+h1{
+    font-size: 5rem;
+    font-weight: 100;
+    margin-bottom: 0px;
+    
+}
+h4{
+    font-size: 1.6rem;
+    font-weight: 100;
+    margin-bottom: 10px;
+}
+#name,
+#surname,
+#email{
+    margin-top: 1rem;
+    padding: 5px;
+}
+#frontend,
+#backend,
+#datascience{
+    margin-bottom: 20px;
+}
+
+#yes,
+#maybe,
+#notsure{
+    margin-bottom: 20px;
+}
